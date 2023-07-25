@@ -1,4 +1,7 @@
 ### Olá sou Romário Alves 👋
+Sou formado em Mecânica industrial, formado em administração de empresas e cursando Análises e desenvolvimento de sistemas.
+
+ Sou apixonado por tecnologia, e amo ver como ela pode ajudar as pessoas.
 ### Quer se conectar comigo🔰
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romario-alves-6272ab280/)
@@ -15,3 +18,4 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 </div>
+
