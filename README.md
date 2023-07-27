@@ -1,4 +1,4 @@
-### Olá sou Romário Alves 👋
+### Minha formação 👋
 Sou formado em Mecânica industrial, formado em administração de empresas e cursando Análises e desenvolvimento de sistemas.
 
  Sou apixonado por tecnologia, e amo ver como ela pode ajudar as pessoas.
