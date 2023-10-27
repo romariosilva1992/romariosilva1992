@@ -1,7 +1,7 @@
 ### Minha formação 👋
-Sou formado em Mecânica industrial, formado em administração de empresas e cursando Análises e desenvolvimento de sistemas.
+  Sou formado em administração de empresas, formado em Mecânica industrial, e cursando Análises e desenvolvimento de sistemas.
 
- Sou apixonado por tecnologia, e amo ver como ela pode ajudar as pessoas.
+ Sempre gostei de tecnologia, e amo ver como ela pode ajudar as pessoas.
 ### Quer se conectar comigo🔰
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romario-alves-6272ab280/)
